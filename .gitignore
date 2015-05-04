@@ -1,0 +1,15 @@
+sampledata
+
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.perspectivev3
+*.xcodeproj/xcuserdata/*
+*.xcodeproj/*.xcworkspace/*
+*.xcodeproj/*/xcuserdata/*
+*.xcuserstate
+*.xccheckout
+xcuserdata
+*.swp
+*~.nib
+*~
+.DS_Store
+Pods
